@@ -1,4 +1,4 @@
-# CS5242_2022
+# CS5242_2022_Spring
 Neural Networks and Deep Learning, NUS CS5242, 2022 Spring. 
 
 PyTorch is required for the quiz and project of this module. This repo guides you to set up the pytorch environment for both quiz and project.
