@@ -20,8 +20,8 @@ PyTorch is required for the quiz and project of this module. This repo guides yo
    source ~/.bashrc
 
    # Clone GitHub repo
-   git clone https://github.com/zhaojw1998/CS5242_2022_LHK.git
-   cd CS5242_2022_LHK
+   git clone https://github.com/zhaojw1998/CS5242_2022_Spring.git
+   cd CS5242_2022_Spring
 
    # Install python libraries
    conda env create -f environment.yml
@@ -47,8 +47,8 @@ PyTorch is required for the quiz and project of this module. This repo guides yo
    conda install git 
 
    # Clone GitHub repo
-   git clone https://github.com/zhaojw1998/CS5242_2022_LHK.git
-   cd CS5242_2022_LHK
+   git clone https://github.com/zhaojw1998/CS5242_2022_Spring.git
+   cd CS5242_2022_Spring
 
    # Install python libraries
    conda env create -f environment_windows.yml
