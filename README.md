@@ -1,5 +1,7 @@
 # CS5242_2022
-Neural Networks and Deep Learning, NUS CS5242, 2022 Spring. You are required to use PyTorch for quiz and project. This repo guides you to set up the pytorch environment for both quiz and project.
+Neural Networks and Deep Learning, NUS CS5242, 2022 Spring. 
+
+PyTorch is required for the quiz and project of this module. This repo guides you to set up the pytorch environment for both quiz and project.
 
 
 <br><br>
@@ -32,7 +34,7 @@ Neural Networks and Deep Learning, NUS CS5242, 2022 Spring. You are required to 
 
 
 
-### Set Project % Quiz Environment for Windows 
+### Set Project and Quiz Environment for Windows 
 
 ```sh
    # Conda Installation (skip this if you've already hav Anaconda/Miniconda installed)
