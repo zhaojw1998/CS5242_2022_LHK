@@ -25,7 +25,7 @@ PyTorch is required for the quiz and project of this module. This repo guides yo
 
    # Install python libraries
    conda env create -f environment.yml
-   source activate deeplearn_course
+   source activate cs5242
 
    # Run the notebooks
    jupyter notebook
@@ -52,7 +52,7 @@ PyTorch is required for the quiz and project of this module. This repo guides yo
 
    # Install python libraries
    conda env create -f environment_windows.yml
-   conda activate deeplearn_course
+   conda activate cs5242
 
    # Run the notebooks
    jupyter notebook
